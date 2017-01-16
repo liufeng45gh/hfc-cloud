@@ -1,14 +1,10 @@
 server:
    port: 31860
-spring:
-  redis:
-    host: 115.29.109.91
-    port: 6379
 qiniu:
-  accessKey: WgoGoW0WX2PvxiqjK--PMc1y8zNgSbixihE40TAC
-  secretKey: Wbs2-0OQ9DDigynCl7Os0t31acFlLUabXYqKn2gG
-  publicBucket: csl-cloud
-  url: http://7xldo6.com2.z0.glb.qiniucdn.com/
+  accessKey: eeYtcWvGPXqjEiTIxDljeVu8qxFpwdXOvGo4PURq
+  secretKey: LHkSG-HRLccuUYSgb-TX0ZcDrsyUMEzSg6Z3GG6G
+  publicBucket: hfc-lucifer
+  url: http://ojvbqldpg.bkt.clouddn.com/
 multipart:
   maxFileSize: 10Mb
   maxRequestSize: 30Mb
